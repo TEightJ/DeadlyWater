@@ -1,0 +1,7 @@
+name: DeadlyWater
+version: ${project.version}
+main: monster.t8j.deadlywater.DeadlyWater
+api-version: 1.16
+authors: [t8j]
+description: If you touch water, you die
+website: t8j.monster
